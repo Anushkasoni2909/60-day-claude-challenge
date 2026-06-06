@@ -1,0 +1,41 @@
+What I learnt :
+
+Prompt Engineering is the skill of writing smart, structured prompts to get more accurate answers, better creativity, expert-level outputs, fewer hallucinations, and faster workflows. Just like Googling well is a skill, prompting well is now a modern tech skill.
+
+1
+More accurate answers: structured prompts reduce guesswork and hallucination.
+2
+Expert-level outputs: give role + context and the model writes like a professional, not a generalist.
+3
+Faster workflow: one good prompt replaces five back-and-forth corrections.
+4
+Normal vs Engineered: “Make a website” vs “Act as a senior frontend engineer and build a responsive SaaS landing page using React + Tailwind with dark theme and smooth animations.”
+
+What I did:
+
+1
+Open Claude and start a new chat.
+2
+Paste the Lazy Prompt(e.g Create an image explaining Prompt Engineering) and generate the response.
+3
+Save or screenshot the generated image/output.
+4
+Start a new Claude chat.
+5
+Paste the Engineered Prompt(see below in prompt template section) and generate the response.
+6
+Compare both outputs and observe the differences in explanation quality, structure, examples, and image design.
+7
+Open your GitHub repository.
+8
+Create a new folder named Day2.
+9
+Inside the Day2 folder, create a file named day2.md.
+10
+Write the content of the day, key learnings and what you worked on along with the prompts that you entered.
+11
+Commit and push the changes to GitHub.
+12
+Copy the commit URL of the file.
+13
+Paste the file commit URL into the challenge submission window and submit your work.
