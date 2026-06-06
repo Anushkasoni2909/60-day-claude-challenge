@@ -1,0 +1,28 @@
+What i have learnt :
+
+1
+Desktop vs browser: the native app removes friction one click from dock/taskbar beats opening a new tab every time. Daily use is the whole game in a 60-day challenge.
+2
+Projects as your lab: Claude Projects keep related chats, files, and context in one place. Treat “60 Days of AI” as your running notebook every day’s work lives here, not scattered across random chats.
+3
+AI Personality Profile: this isn’t a gimmick it’s your first lesson in context-rich prompting. The more Claude knows about how you think, work, and learn, the more tailored every future answer becomes.
+4
+Build in public: a public GitHub repo turns daily practice into a portfolio. One README today, one commit per day by Day 60 you have proof of work recruiters and peers can actually see.
+
+  What I did :
+
+Install Claude on your desktop (link above) and sign in.
+2
+Create a Claude Project named “60 Days of AI” you’ll save every challenge chat here.
+3
+Open a new chat and paste the AI Personality Profile prompt below. Replace the brackets with details that fit you.
+4
+Let Claude generate your profile AND the cinematic AI portrait in the same response.
+5
+Save the result to your portfolio and share it on LinkedIn to mark Day 1.
+6
+Create a public GitHub repository you can name it anything (e.g., '60-day-claude-challenge', 'my-claude-journey', whatever you like)
+7
+On Day 1, push a README.md to your repo introducing yourself and your goals for the next 60 days
+8
+Each day going forward: take a screenshot of your Claude work, save it to your repo, and push a new commit
